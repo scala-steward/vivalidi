@@ -22,7 +22,7 @@ object Dependencies {
 object Versions {
   val zio           = "0.2.11"
   val catsEffect    = "1.4.0"
-  val cats          = "1.6.1"
+  val cats          = "2.0.0"
   val catsParTemp   = "0.2.1"
   val kindProjector = "0.10.3"
   val scalatest     = "3.0.8"
